@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyBankingApp",
-    "slug": "MyBankingApp",
+    "name": "MyBookingApp",
+    "slug": "MyBookingApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/LOGO/120x120.png",
