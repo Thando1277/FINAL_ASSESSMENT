@@ -34,15 +34,9 @@ function MainTabs() {
           backgroundColor: '#fff',
           borderTopWidth: 1,
           borderTopColor: '#E5E5EA',
-          paddingBottom: 5,
-          paddingTop: 5,
-          height: 60,
-          position: 'absolute',  
-          bottom: 0,             
-          left: 0,               
-          right: 0,
-          marginBottom: 0,
-          height: 100
+          paddingBottom: 8,
+          paddingTop: 8,
+          height: 70,
         },
         headerStyle: {
           backgroundColor: '#007AFF',
